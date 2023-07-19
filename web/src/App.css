@@ -1,3 +1,15 @@
 .App {
+  background-image: url("../src/asset/banner10.jpg");
+  box-sizing: border-box;
+  background-size: cover;
+
+  background-repeat: no-repeat;
   text-align: center;
+}
+.bg{
+  height: 100%;
+  background-color: rgb(255, 255, 255);
+}
+.home{
+  height: 80vh;
 }
