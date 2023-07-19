@@ -10,9 +10,9 @@ import logo from "../asset/logo_brand.png";
 function Navigate() {
   return (
     <Navbar expand="lg" className="bg ">
-      <Container className="m-20">
+      <Container className="m-20 ">
         <Navbar.Brand href="/">
-          <img src={logo} alt="" width={100}/>
+          <img src={logo} class="img-fluid" alt="" width={100}/>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
