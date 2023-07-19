@@ -4,7 +4,7 @@ import React from 'react'
 export default function HomePage() {
   return (
     <>
-    <div className='home'>HomeGage</div>
+    <div className='home'>HomePage</div>
     </>
     
   )
