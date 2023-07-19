@@ -2,7 +2,7 @@
 //install react-dom
 npm install react-dom
 //install react-router-dom
-npm install react-router-dom
+c
 
 npm install react-slick --save
 
